@@ -1,0 +1,7 @@
+C:\Users\Honor\source\repos\Homework №3\bin\Debug\Homework №3.exe.config
+C:\Users\Honor\source\repos\Homework №3\bin\Debug\Homework №3.exe
+C:\Users\Honor\source\repos\Homework №3\bin\Debug\Homework №3.pdb
+C:\Users\Honor\source\repos\Homework №3\obj\Debug\Tumakov.csproj.AssemblyReference.cache
+C:\Users\Honor\source\repos\Homework №3\obj\Debug\Tumakov.csproj.CoreCompileInputs.cache
+C:\Users\Honor\source\repos\Homework №3\obj\Debug\Homework №3.exe
+C:\Users\Honor\source\repos\Homework №3\obj\Debug\Homework №3.pdb
